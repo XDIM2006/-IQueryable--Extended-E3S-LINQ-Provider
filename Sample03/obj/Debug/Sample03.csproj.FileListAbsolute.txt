@@ -1,0 +1,13 @@
+D:\mentoring\Expressions and IQueryable\Samples\Sample03\bin\Debug\Sample03.dll.config
+D:\mentoring\Expressions and IQueryable\Samples\Sample03\bin\Debug\Sample03.dll
+D:\mentoring\Expressions and IQueryable\Samples\Sample03\bin\Debug\Sample03.pdb
+D:\mentoring\Expressions and IQueryable\Samples\Sample03\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\mentoring\Expressions and IQueryable\Samples\Sample03\bin\Debug\Newtonsoft.Json.dll
+D:\mentoring\Expressions and IQueryable\Samples\Sample03\bin\Debug\System.Net.Http.Extensions.dll
+D:\mentoring\Expressions and IQueryable\Samples\Sample03\bin\Debug\System.Net.Http.Primitives.dll
+D:\mentoring\Expressions and IQueryable\Samples\Sample03\bin\Debug\Newtonsoft.Json.xml
+D:\mentoring\Expressions and IQueryable\Samples\Sample03\bin\Debug\System.Net.Http.Extensions.xml
+D:\mentoring\Expressions and IQueryable\Samples\Sample03\bin\Debug\System.Net.Http.Primitives.xml
+D:\mentoring\Expressions and IQueryable\Samples\Sample03\obj\Debug\Sample03.csproj.App.config
+D:\mentoring\Expressions and IQueryable\Samples\Sample03\obj\Debug\Sample03.dll
+D:\mentoring\Expressions and IQueryable\Samples\Sample03\obj\Debug\Sample03.pdb
